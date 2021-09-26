@@ -1,0 +1,21 @@
+.scholars-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 15px;
+    justify-content: center;
+}
+
+
+.calculate-container{
+    background-color: rgb(199, 241, 114);
+    border: 2px solid rgb(179, 138, 138);
+    border-radius: 10px;
+    font-family: Georgia;
+    margin-top: 9px;
+    display: inline;
+}
+
+.details-container{
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+}

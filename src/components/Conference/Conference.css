@@ -1,0 +1,42 @@
+.card{
+    background-color: skyblue;
+    border:2px solid rgb(252, 125, 7);
+    border-radius: 10px;
+    line-height: 15px;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+    color: rgb(27, 26, 26);
+    font-weight: bold;
+    font-family: Georgia;
+}
+.card img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid gold;
+    border-radius: 50%;
+}
+
+.card h3{
+    color: orangered;
+    font-weight:bolder ;
+}
+
+.add-btn{
+    background-color: tomato;
+    color: thistle;
+    padding: 10px;
+    border: 1px solid orangered;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 800;
+    font-family: cursive;
+    width: 200px;
+}
+.add-btn:hover{
+    background-color: rgb(27, 26, 26);
+    border:2px solid white;
+    border-radius: 10px;
+
+}

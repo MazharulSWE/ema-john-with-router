@@ -1,0 +1,212 @@
+[
+    {
+      "img": "https://www.daily-sun.com/assets/news_images/2020/02/06/thumbnails/Azhari.jpg",
+      "name": "Mizanur Rahman",
+      "Nationality": "Bangladesh",
+      "Age": 31,
+      "designation": "Lecturer",
+      "fees": 2000,
+      "book": "Message",
+      "institution": "Al-Azhar"
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Dr_Zakir_Naik.jpg",
+      "name": "Dr, Zakir naik",
+      "Nationality": "India",
+      "Age": 51,
+      "designation": "Lecturer",
+      "fees": 3000,
+      "book": "Ilmu Tauhid",
+      "institution": "Mumbai university"
+    },
+    {
+      "img": "https://mizanurrahmanazhariwaz.com/wp-content/uploads/2019/12/aj-bio-3.png",
+      "name": "Dr, Abdullah Zahangir",
+      "Nationality": "Bangladesh",
+      "Age": 53,
+      "designation": "Professor",
+      "fees": 1500,
+      "book": "Rahe Belayat",
+      "institution": "Madina Uni"
+    },
+    {
+      "img": "https://i.pinimg.com/originals/e8/a1/ab/e8a1ab032eafee230ca1838cafb6104c.jpg",
+      "name": "Delwar Hossain Sayeedi",
+      "Nationality": "Bangladesh",
+      "Age": 81,
+      "designation": "Preacher",
+      "fees": 2500,
+      "book": "Akirat",
+      "institution": "Sharsina"
+    },
+    {
+      "img": "http://www.zemtv.co/wp-content/uploads/2020/05/Screenshot_20200518_173557.jpg",
+      "name": "Taqi Usmani",
+      "Nationality": "Pakistan",
+      "Age": 77,
+      "designation": "Judge",
+      "fees": 3000,
+      "book": "SALAH",
+      "institution": "Punjab Uni"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_IMMWh8p_gjM0CTe6y5i7jmeaULk959c7hhLK9KcIDIhaEgMgwH4fW7f-5K2PzAkSw8&usqp=CAU",
+      "name": "Tariq Jamil",
+      "Nationality": "Pakistan",
+      "Age": 77,
+      "designation": "Preacher",
+      "fees": 1500,
+      "book": "Ad-din",
+      "institution": "Karachi Uni"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToB3urmSOLJy5oOlVdp-Xm4X9ZkzH1FKSq5RkJNAblehvTXCveSSush9Gz2d9ueqXZBRk&usqp=CAU",
+      "name": "Mufti Menk",
+      "Nationality": "Zimbabwean",
+      "Age": 46,
+      "designation": "Scholar",
+      "fees": 2500,
+      "book": "Youths",
+      "institution": "Dhabel"
+    },
+    {
+      "img": "https://pbs.twimg.com/media/EXdsuHaWsAA-G3Z.jpg",
+      "name": "Al-Sudais",
+      "Nationality": "Saudi",
+      "Age": 59,
+      "designation": "Imam",
+      "fees": 3000,
+      "book": "HARAM",
+      "institution": "Al-Qura Uni"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nq8QIK2_R8zvbMnSI_cXa8zCch46lgeeRw&usqp=CAU",
+      "name": "Saud al-Shuraim",
+      "Nationality": "Saudi Arabia",
+      "Age": 57,
+      "designation": "Imam",
+      "fees": 5000,
+      "book": "Ad Dua",
+      "institution": "Al-Qura"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Y_kJXm48ixvNgpjwTtWeefWg1VoCl9B7pA&usqp=CAU",
+      "name": "Abdul Basit",
+      "Nationality": "Egypt",
+      "Age": 51,
+      "designation": "Qari",
+      "fees": 3000,
+      "book": "Makka",
+      "institution": "Kairo Uni"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJm-394EKwl5EZ3EzgYNG3xQbJ8ZWoDDZOJNo2HrXUzf_7Ch-V8YJ7h1GoFk0MQCYQcts&usqp=CAU",
+      "name": "Ahmed Deedat",
+      "Nationality": "India",
+      "Age": 83,
+      "designation": "Debator",
+      "fees": 2500,
+      "book": "The Choice",
+      "institution": "IPCI"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkt_gLZV0eKKcGYLDMzq3vdQJTs-xLNBgriszrr5SZAXzP43w8YXSgqctn6q9aVhOQZ_w&usqp=CAU",
+      "name": "Bilal Philip",
+      "Nationality": "Canda",
+      "Age": 77,
+      "designation": "Teacher",
+      "fees": 4000,
+      "book": "Tawheed",
+      "institution": "Madina Uni"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGEeHBgat3qzemucJIfMVrTuXXwYrmuKKLBHCuoDwcdRYEe2zCwQMN-haqpxbWHOy9rg&usqp=CAU",
+      "name": "Noman Ali Khan",
+      "Nationality": "America",
+      "Age": 43,
+      "designation": "Preacher",
+      "fees": 1500,
+      "book": "love of Islam",
+      "institution": "Qarachi"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g7y7Boehc_lBKrwSGsHSiVRjrYrkJ3OREYnnTEbhEYFYP5DZeLcmYufUTbcX72otKA0&usqp=CAU",
+      "name": "Mufi Kazzzi Ibrahim",
+      "Nationality": "Bangladesh",
+      "Age": 51,
+      "designation": "Preacher",
+      "fees": 1000,
+      "book": "Dajjal",
+      "institution": "Madina"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC6p9yP5r-Z3NlRVX_VBjl6CJAeVPsn1x5FX3WSX0q0MepLSV261oUXV0MIdVZHUQ7oeU&usqp=CAU",
+      "name": "Haron Din",
+      "Nationality": "Malaysia",
+      "Age": 76,
+      "designation": "Politician",
+      "fees": 2000,
+      "book": "Cinta anak",
+      "institution": "Ain Shams"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3D36uzwKNaEMQKj8H8Z5HP_8c9-yi-obtC8z0UG0DFT7UnwQriwxGrZ3r4cG2fr5VC6Y&usqp=CAU",
+      "name": "Sheikh Ahmadullah",
+      "Nationality": "Bangladesh",
+      "Age": 39,
+      "designation": "Preacher",
+      "fees": 3000,
+      "book": "Amol",
+      "institution": "Madina Uni"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1d9YKHzPYFJ7ejLJfb_mJ7J7RnforC-bE9SgoO9-zpWwWJjYMr4YxkkbK1iJ6hlARN0&usqp=CAU",
+      "name": "Israr Ahmed",
+      "Nationality": "Pakistan",
+      "Age": 82,
+      "designation": "Lecturer",
+      "fees": 1000,
+      "book": "Message",
+      "institution": "Islamabad"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzrDIZYAuhApa3LnfygKaMXTK75mJVGtmpw&usqp=CAU",
+      "name": "Maulan Maududi",
+      "Nationality": "India",
+      "Age": 78,
+      "designation": "Journalist",
+      "fees": 2000,
+      "book": "Jihad",
+      "institution": "Madina"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SW8KthmBy-BXlgAdl8PTn5PKdU3bDJyZ4w&usqp=CAU",
+      "name": "Allama Iqbal",
+      "Nationality": "Pakistan",
+      "Age": 61,
+      "designation": "Writter",
+      "fees": 3000,
+      "book": "Risalat",
+      "institution": "Munich uni"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjComMug-HsDFOWGBwMOXiBP07Z-9p1txBj0aPIyrMXCvG9xNPe3kbmS5x_IitgfbmY0&usqp=CAU",
+      "name": "Mirza Galib",
+      "Nationality": "Pakistan",
+      "Age": 71,
+      "designation": "Writter",
+      "fees": 1000,
+      "book": "Ghajal",
+      "institution": "Kairo"
+    },
+    {
+      "img": "https://i.ytimg.com/vi/pprrChRZstY/maxresdefault.jpg",
+      "name": "Moshiur Rahman",
+      "Nationality": "Bangladesh",
+      "Age": 41,
+      "designation": "Singer",
+      "fees": 2000,
+      "book": "Islamc Song",
+      "institution": "Rajshahi"
+    }
+  ]
